@@ -14,3 +14,4 @@
 ## Code
 1. search1.ipynb: given a query, find the top 5 books that match the query.
 2. recommendations2.ipynb: given a list of books, find readers who also liked these books. Given these readers, find books that they liked.
+3. collaborative_filtering3.ipynb: better recommendations using collaborative filtering.
